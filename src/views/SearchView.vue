@@ -10,6 +10,11 @@
 <script>
 export default {
   name: 'SearchView',
+  data() {
+    return {
+
+    }
+  }
 };
 </script>
 <style lang="sass" scoped>
